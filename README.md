@@ -1,4 +1,4 @@
-## Hi! there 👋, I'm Harshith gowda R
+## Hi! there 👋, I'm Harshith Gowda R
 
 # 💫 About Me:
 🌺 Learn today- build tomorrow<br>⚒ I'm currently working on cybersecurity projects<br>😊 I'm currently learning networking concepts<br>💻 All my projects are available on https://github.com/Harshith-cybertech<br>📧 Reach me at harshithgowdar64@gmail.com
